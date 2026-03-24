@@ -97,6 +97,6 @@ const sadaka = {
 <!-- QUOTE -->
 <div align="center">
 
-  > *"The best way to predict the future is to invent it."* — Alan Kay
+   *"The best way to predict the future is to invent it."* — Alan Kay
 
 </div>
