@@ -1,7 +1,7 @@
 <!-- SOCIAL BADGES -->
 <div align="center">
 
-[![Social banner for Sadaka-Wijerathna](https://github.com/Sadaka-Wijerathna/Sadaka-Wijerathna/blob/main/assets/header-banner.png)](https://github.com/Sadaka-Wijerathna)
+[![Social banner for Sadaka-Wijerathna](https://github.com/Sadaka-Wijerathna/Sadaka-Wijerathna/blob/main/assets/header-banner.jpg)](https://github.com/Sadaka-Wijerathna)
 
 [![GitHub followers](https://img.shields.io/github/followers/Sadaka-Wijerathna?label=Followers&style=social)](https://github.com/Sadaka-Wijerathna)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sadaka-Wijerathna&label=Profile%20Views&color=58a6ff&style=flat-square)](https://github.com/Sadaka-Wijerathna)
