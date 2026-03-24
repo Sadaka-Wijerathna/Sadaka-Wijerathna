@@ -84,10 +84,10 @@ const sadaka = {
 ##  Let's Connect
 
 <p align="center">
-  <a href="https://t.me/buddyseller"><img src="https://img.shields.io/badge/Telegram-@buddyseller-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/94720829190"><img src="https://img.shields.io/badge/WhatsApp-+94720829190-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sadaka.wijerathna/"><img src="https://img.shields.io/badge/Instagram-@sadaka.wijerathna-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:sadakaparamiwijerathna1@gmail.com"><img src="https://img.shields.io/badge/Email-sadakaparamiwijerathna1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/buddyseller"><img src="https://img.shields.io/badge/Telegram-@buddyseller-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/94720829190"><img src="https://img.shields.io/badge/WhatsApp-+94720829190-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sadaka.wijerathna/"><img src="https://img.shields.io/badge/Instagram-@sadaka.wijerathna-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sadakaparamiwijerathna1@gmail.com"><img src="https://img.shields.io/badge/Email-sadakaparamiwijerathna1-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
