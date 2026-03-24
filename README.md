@@ -34,23 +34,23 @@ const sadaka = {
 <!-- TECH STACK SECTION -->
 ##  Tech Stack & Tools
 
-### 💻 Languages
-<p align="left">
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&perline=10&theme=dark" />
 </p>
 
-### ⚡ Frameworks & Libraries
-<p align="left">
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=10&theme=dark" />
 </p>
 
-### 🗄️ Databases & Backend
-<p align="left">
+<h3 align="center">Databases & Backend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,redis&perline=10&theme=dark" />
 </p>
 
-### 🔧 DevOps & Tools
-<p align="left">
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,vercel&perline=10&theme=dark" />
 </p>
 
