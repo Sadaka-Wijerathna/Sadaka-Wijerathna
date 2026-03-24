@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=220&section=header&text=Sadaka%20Wijerathna&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=🚀%20Software%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=53cc60&height=220&section=header&text=Sadaka%20Wijerathna&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=🚀%20Software%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <!-- ANIMATED TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer+in+the+making+%F0%9F%9B%A0%EF%B8%8F;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things%2C+One+Commit+at+a+Time+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=53cc60&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer+in+the+making+%F0%9F%9B%A0%EF%B8%8F;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things%2C+One+Commit+at+a+Time+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,8 +16,8 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Sadaka-Wijerathna?label=Followers&style=social)](https://github.com/Sadaka-Wijerathna)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sadaka-Wijerathna&label=Profile%20Views&color=6E56CF&style=flat-square)](https://github.com/Sadaka-Wijerathna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6E56CF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadaka-wijerathna)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sadaka-Wijerathna&label=Profile%20Views&color=53cc60&style=flat-square)](https://github.com/Sadaka-Wijerathna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-53cc60?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadaka-wijerathna)
 [![GitHub Stars](https://img.shields.io/github/stars/Sadaka-Wijerathna?label=Stars&style=social)](https://github.com/Sadaka-Wijerathna)
 
 </div>
@@ -76,18 +76,18 @@ const sadaka = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadaka-Wijerathna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=C9D1D9&ring_color=6E56CF&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaka-Wijerathna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadaka-Wijerathna&show_icons=true&hide_border=true&bg_color=0D1117&title_color=53cc60&icon_color=53cc60&text_color=ffffff&ring_color=53cc60&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaka-Wijerathna&layout=compact&hide_border=true&bg_color=0D1117&title_color=53cc60&text_color=ffffff&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Sadaka-Wijerathna&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E56CF&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Sadaka-Wijerathna&hide_border=true&background=0D1117&stroke=53cc60&ring=53cc60&fire=53cc60&currStreakLabel=53cc60&dates=ffffff&labels=ffffff" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaka-Wijerathna&bg_color=0D1117&color=6E56CF&line=6E56CF&point=FFFFFF&area=true&hide_border=true&area_color=6E56CF" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaka-Wijerathna&bg_color=0D1117&color=53cc60&line=53cc60&point=FFFFFF&area=true&hide_border=true&area_color=53cc60&title_color=ffffff" />
 </div>
 
 <br>
@@ -98,7 +98,7 @@ const sadaka = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadaka-Wijerathna&theme=tokyonight" alt="GitHub Profile Details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadaka-Wijerathna&theme=github_dark" alt="GitHub Profile Details" />
 </div>
 
 <br>
@@ -110,10 +110,10 @@ const sadaka = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E56CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadaka-wijerathna)
-[![GitHub](https://img.shields.io/badge/GitHub-6E56CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadaka-Wijerathna)
-[![Gmail](https://img.shields.io/badge/Email-6E56CF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-53cc60?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadaka-wijerathna)
+[![GitHub](https://img.shields.io/badge/GitHub-53cc60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadaka-Wijerathna)
+[![Gmail](https://img.shields.io/badge/Email-53cc60?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-53cc60?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 
 </div>
 
@@ -130,7 +130,7 @@ const sadaka = {
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=53cc60&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
 
 <!-- LAST UPDATED -->
