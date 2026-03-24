@@ -12,7 +12,7 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-## 🧠 About Me
+## About Me
 
 ```typescript
 const sadaka = {
@@ -33,7 +33,7 @@ const sadaka = {
 ---
 
 <!-- TECH STACK SECTION -->
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### 💻 Languages
 <p align="left">
@@ -60,7 +60,7 @@ const sadaka = {
 ---
 
 <!-- GITHUB ANALYTICS -->
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadaka-Wijerathna&show_icons=true&hide_border=true&bg_color=0D1117&title_color=53cc60&icon_color=53cc60&text_color=ffffff&ring_color=53cc60&include_all_commits=true&count_private=true" />
@@ -81,19 +81,9 @@ const sadaka = {
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadaka-Wijerathna&theme=github_dark" alt="GitHub Profile Details" />
-</div>
-
-<br>
-
----
 
 <!-- CONNECT SECTION -->
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -113,14 +103,4 @@ const sadaka = {
 
   > *"The best way to predict the future is to invent it."* — Alan Kay
 
-</div>
-
-<!-- FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=53cc60&height=120&section=footer&animation=fadeIn" width="100%" />
-</div>
-
-<!-- LAST UPDATED -->
-<div align="center">
-  <sub>⚡ Last updated: March 2026 | Built with ❤️ by Sadaka Wijerathna</sub>
 </div>
