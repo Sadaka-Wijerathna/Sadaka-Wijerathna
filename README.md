@@ -83,14 +83,12 @@ const sadaka = {
 <!-- CONNECT SECTION -->
 ##  Let's Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadaka-wijerathna)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sadaka-Wijerathna)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.vercel.app)
-
-</div>
+<p align="center">
+  <a href="https://t.me/buddyseller"><img src="https://img.shields.io/badge/Telegram-@buddyseller-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/94720829190"><img src="https://img.shields.io/badge/WhatsApp-+94720829190-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sadaka.wijerathna/"><img src="https://img.shields.io/badge/Instagram-@sadaka.wijerathna-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sadakaparamiwijerathna1@gmail.com"><img src="https://img.shields.io/badge/Email-sadakaparamiwijerathna1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br>
 
@@ -99,6 +97,6 @@ const sadaka = {
 <!-- QUOTE -->
 <div align="center">
 
-   *"The best way to predict the future is to invent it."* — Alan Kay
+  > *"The best way to predict the future is to invent it."* — Alan Kay
 
 </div>
