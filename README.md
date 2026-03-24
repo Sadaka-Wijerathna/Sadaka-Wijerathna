@@ -67,7 +67,7 @@ const sadaka = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Sadaka-Wijerathna&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=ffa657&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&labels=ffffff" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Sadaka-Wijerathna&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=ffa657&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
 </div>
 
 <br>
