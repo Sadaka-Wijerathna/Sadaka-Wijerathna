@@ -1,16 +1,3 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=53cc60&height=220&section=header&text=Sadaka%20Wijerathna&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=🚀%20Software%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
-</div>
-
-<!-- ANIMATED TYPING SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=53cc60&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer+in+the+making+%F0%9F%9B%A0%EF%B8%8F;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Cool+Things%2C+One+Commit+at+a+Time+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
 
 <!-- SOCIAL BADGES -->
 <div align="center">
